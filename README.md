@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This plugin is no longer maintained.** Superseded by the [`ahegyes/dws-plugin-template`](https://github.com/ahegyes/wordpress-plugin-template) GitHub template, which serves the same role for the v2 framework. The repository remains available for historical reference.
+
+---
+
 # DWS WordPress Utility Plugin
 
 **Contributors:** Antonius Hegyes, Deep Web Solutions GmbH  

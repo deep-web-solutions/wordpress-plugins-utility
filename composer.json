@@ -1,6 +1,7 @@
 {
   "name": "deep-web-solutions/wp-utility-plugin",
   "type": "wordpress-plugin",
+  "abandoned": "ahegyes/dws-plugin-template",
 
   "description": "A skeleton plugin using the DWS framework that can be used to add site-specific code.",
   "keywords": ["wordpress", "plugin", "Deep Web Solutions", "utility"],
